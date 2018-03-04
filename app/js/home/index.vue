@@ -27,14 +27,14 @@ import Life from "./life.vue"
 export default {
 	components:{
 		Header,
+		Slider,
 		Footer,
-        Slider,
+		Navbar,
 		Novice,
 		Borrow,
 		Money,
 		Product,
         Life,
-		Navbar
     }
 }
 </script>
