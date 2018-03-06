@@ -1,7 +1,7 @@
 <template lang="html">
     <div :class="$style.test">
         <h1>{{ title }}</h1>
-        <p>abcdef</p>
+
     </div>
 </template>
 
