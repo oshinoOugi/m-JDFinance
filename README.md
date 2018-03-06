@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 组件化思维与技巧之京东金融实战
 
 本项目使用的是Vue(2.5.9)实现的组件化课程，侧重思维与方法的训练。在模块化方面不仅涉及常规的JS还有CSS，CSS的模块化使用Sass组织代码，将模块化设计做到极致。在构建部分采用webpack（3.10.0） 和 npm scripts独立完成，不依赖任何第三方的脚手架。
@@ -91,3 +92,7 @@ git checkout 分支名
 ### 更多精彩内容
 
 如果喜欢本课程可以关注更多<a href="./note.md" target="_blank">优秀内容</a>，都是多年经验的积累和总结，欢迎大家和我讨论。
+=======
+# m-JDFinance
+jd finance   with css module
+>>>>>>> e803a0eea4fe85bad9bd843bdc48a2bf439923c4
