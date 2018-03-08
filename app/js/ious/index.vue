@@ -2,11 +2,9 @@
     <div>
         <Header></Header>
         <Slider></Slider>
-        <Novice></Novice>
-        <Borrow></Borrow>
-        <Money></Money>
-        <Product></Product>
-        <Life></Life>
+        <Welfare></Welfare>
+        <Service></Service>
+
         <Footer></Footer>
         <Navbar></Navbar>
     </div>
@@ -16,30 +14,31 @@
 	import Header from "../public/header.vue"
 	import Footer from "../public/footer.vue"
 	import Navbar from "../public/navbar.vue"
-	import Slider from "./hslider.vue"
-	import Novice from "./novice.vue"
-	import Borrow from "./borrow.vue"
-	import Money from "./money.vue"
-	import Product from "./product.vue"
-	import Life from "./life.vue"
+	import Slider from "./islider.vue"
+	import Welfare from "./welfare.vue"
+    import Service from "./service.vue"
+
+
+
 	export default {
 		components:{
 			Header,
 			Slider,
 			Footer,
 			Navbar,
-			Novice,
-			Borrow,
-			Money,
-			Product,
-			Life,
+			Welfare,
+			Service,
+
+
 		}
 	}
 </script>
+<style lang="css">
 
+</style>
 <style lang="scss" module>
     @import '../../css/reset.scss';
-    body{
+    body {
         background-color: #f5f5f5;
     }
 </style>
